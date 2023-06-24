@@ -1,0 +1,48 @@
+C:\Users\Admin\Desktop\onu\2 course\учбова папка\курсова\CourseWork_Kryzhevska\bin\Debug\netcoreapp3.1\CourseWork_Kryzhevska.exe
+C:\Users\Admin\Desktop\onu\2 course\учбова папка\курсова\CourseWork_Kryzhevska\bin\Debug\netcoreapp3.1\CourseWork_Kryzhevska.deps.json
+C:\Users\Admin\Desktop\onu\2 course\учбова папка\курсова\CourseWork_Kryzhevska\bin\Debug\netcoreapp3.1\CourseWork_Kryzhevska.runtimeconfig.json
+C:\Users\Admin\Desktop\onu\2 course\учбова папка\курсова\CourseWork_Kryzhevska\bin\Debug\netcoreapp3.1\CourseWork_Kryzhevska.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\onu\2 course\учбова папка\курсова\CourseWork_Kryzhevska\bin\Debug\netcoreapp3.1\CourseWork_Kryzhevska.dll
+C:\Users\Admin\Desktop\onu\2 course\учбова папка\курсова\CourseWork_Kryzhevska\bin\Debug\netcoreapp3.1\CourseWork_Kryzhevska.pdb
+C:\Users\Admin\Desktop\onu\2 course\учбова папка\курсова\CourseWork_Kryzhevska\obj\Debug\netcoreapp3.1\CourseWork_Kryzhevska.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\onu\2 course\учбова папка\курсова\CourseWork_Kryzhevska\obj\Debug\netcoreapp3.1\CourseWork_Kryzhevska.Form1.resources
+C:\Users\Admin\Desktop\onu\2 course\учбова папка\курсова\CourseWork_Kryzhevska\obj\Debug\netcoreapp3.1\CourseWork_Kryzhevska.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\onu\2 course\учбова папка\курсова\CourseWork_Kryzhevska\obj\Debug\netcoreapp3.1\CourseWork_Kryzhevska.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\onu\2 course\учбова папка\курсова\CourseWork_Kryzhevska\obj\Debug\netcoreapp3.1\CourseWork_Kryzhevska.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\onu\2 course\учбова папка\курсова\CourseWork_Kryzhevska\obj\Debug\netcoreapp3.1\CourseWork_Kryzhevska.AssemblyInfo.cs
+C:\Users\Admin\Desktop\onu\2 course\учбова папка\курсова\CourseWork_Kryzhevska\obj\Debug\netcoreapp3.1\CourseWork_Kryzhevska.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\onu\2 course\учбова папка\курсова\CourseWork_Kryzhevska\obj\Debug\netcoreapp3.1\CourseWork_Kryzhevska.dll
+C:\Users\Admin\Desktop\onu\2 course\учбова папка\курсова\CourseWork_Kryzhevska\obj\Debug\netcoreapp3.1\CourseWork_Kryzhevska.pdb
+C:\Users\Admin\Desktop\onu\2 course\учбова папка\курсова\CourseWork_Kryzhevska\obj\Debug\netcoreapp3.1\CourseWork_Kryzhevska.genruntimeconfig.cache
+C:\Users\Admin\Desktop\onu\2 course\учбова папка\курсова\CourseWork_Kryzhevska\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\onu\2 course\учбова папка\курсова\CourseWork_Kryzhevska\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Desktop\onu\2 course\учбова папка\курсова\CourseWork_Kryzhevska\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Desktop\onu\2 course\учбова папка\курсова\CourseWork_Kryzhevska\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Desktop\onu\2 course\учбова папка\курсова\CourseWork_Kryzhevska\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\onu\2 course\учбова папка\курсова\CourseWork_Kryzhevska\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\onu\2 course\учбова папка\курсова\CourseWork_Kryzhevska\obj\Debug\netcoreapp3.1\CourseWork_Kryzhevska.csproj.CopyComplete
+C:\Users\Admin\Desktop\onu\2 course\student\coursework\CourseWork_Kryzhevska\bin\Debug\netcoreapp3.1\CourseWork_Kryzhevska.exe
+C:\Users\Admin\Desktop\onu\2 course\student\coursework\CourseWork_Kryzhevska\bin\Debug\netcoreapp3.1\CourseWork_Kryzhevska.deps.json
+C:\Users\Admin\Desktop\onu\2 course\student\coursework\CourseWork_Kryzhevska\bin\Debug\netcoreapp3.1\CourseWork_Kryzhevska.runtimeconfig.json
+C:\Users\Admin\Desktop\onu\2 course\student\coursework\CourseWork_Kryzhevska\bin\Debug\netcoreapp3.1\CourseWork_Kryzhevska.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\onu\2 course\student\coursework\CourseWork_Kryzhevska\bin\Debug\netcoreapp3.1\CourseWork_Kryzhevska.dll
+C:\Users\Admin\Desktop\onu\2 course\student\coursework\CourseWork_Kryzhevska\bin\Debug\netcoreapp3.1\CourseWork_Kryzhevska.pdb
+C:\Users\Admin\Desktop\onu\2 course\student\coursework\CourseWork_Kryzhevska\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\onu\2 course\student\coursework\CourseWork_Kryzhevska\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Desktop\onu\2 course\student\coursework\CourseWork_Kryzhevska\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Desktop\onu\2 course\student\coursework\CourseWork_Kryzhevska\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Desktop\onu\2 course\student\coursework\CourseWork_Kryzhevska\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\onu\2 course\student\coursework\CourseWork_Kryzhevska\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\onu\2 course\student\coursework\CourseWork_Kryzhevska\obj\Debug\netcoreapp3.1\CourseWork_Kryzhevska.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\onu\2 course\student\coursework\CourseWork_Kryzhevska\obj\Debug\netcoreapp3.1\CourseWork_Kryzhevska.Form1.resources
+C:\Users\Admin\Desktop\onu\2 course\student\coursework\CourseWork_Kryzhevska\obj\Debug\netcoreapp3.1\CourseWork_Kryzhevska.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\onu\2 course\student\coursework\CourseWork_Kryzhevska\obj\Debug\netcoreapp3.1\CourseWork_Kryzhevska.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\onu\2 course\student\coursework\CourseWork_Kryzhevska\obj\Debug\netcoreapp3.1\CourseWork_Kryzhevska.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\onu\2 course\student\coursework\CourseWork_Kryzhevska\obj\Debug\netcoreapp3.1\CourseWork_Kryzhevska.AssemblyInfo.cs
+C:\Users\Admin\Desktop\onu\2 course\student\coursework\CourseWork_Kryzhevska\obj\Debug\netcoreapp3.1\CourseWork_Kryzhevska.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\onu\2 course\student\coursework\CourseWork_Kryzhevska\obj\Debug\netcoreapp3.1\CourseWork_Kryzhevska.csproj.CopyComplete
+C:\Users\Admin\Desktop\onu\2 course\student\coursework\CourseWork_Kryzhevska\obj\Debug\netcoreapp3.1\CourseWork_Kryzhevska.dll
+C:\Users\Admin\Desktop\onu\2 course\student\coursework\CourseWork_Kryzhevska\obj\Debug\netcoreapp3.1\CourseWork_Kryzhevska.pdb
+C:\Users\Admin\Desktop\onu\2 course\student\coursework\CourseWork_Kryzhevska\obj\Debug\netcoreapp3.1\CourseWork_Kryzhevska.genruntimeconfig.cache
+C:\Users\Admin\Desktop\onu\2 course\student\coursework\CourseWork_Kryzhevska\obj\Debug\netcoreapp3.1\CourseWork_Kryzhevska.DataProcessing.resources
+C:\Users\Admin\Desktop\onu\2 course\student\coursework\CourseWork_Kryzhevska\obj\Debug\netcoreapp3.1\CourseWork_Kryzhevska.RegisterOperations.resources
